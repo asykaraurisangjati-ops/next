@@ -19,7 +19,7 @@
   },
   "packageManager": "npm@11.16.0",
   "engines": {
-    "node": ">=20.x"
+    "node": ">=20"
   },
   "workspaces": [
     "apps/*",
